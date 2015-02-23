@@ -1,7 +1,5 @@
 # Programming-Interview-Code
-Important things to know in a programming interview (Beginner + Advanced)
-
-Beginner and Advanced DS And Algorithms interview questions - working code
+Some of those pesky interview questions on DS and Algo, that have put you in a pickle, written in java
 
 NOTE: All the solutions are meant to solve the problem asked. There might certainly be better ways to solve problems, so optimizing the solutions 
 is left as an exercise to the forker
